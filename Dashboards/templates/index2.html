@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+</head>
+<meta charset="utf-8">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="description" content="">
+<title>Drug Abuse Dashboard</title>
+
+<link href="https://cdn.datatables.net/v/dt/dt-1.10.16/datatables.min.css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="{{ url_for ('static', filename='jqvmap.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ url_for ('static', filename='admin-materialize.min.css') }}">
+
+<!-- Material Icons-->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<!-- load the d3.js library -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+<script src="https://bl.ocks.org/syntagmatic/raw/3341641/render-queue.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+
+
+
+<script src = "{{ url_for('static', filename='d3-tip.js')}}"></script>
+<link rel="stylesheet" type="text/css" href="{{ url_for ('static', filename='style.css') }}">
+</head>
+<body>
+<script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(213077)</script>
+  
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+
+  <main>
+
+    <div class="container" style="width: 100% !important;">
+        <div class="row">
+            <div class="col l12 s12">
+              
+              <h4 style="text-align: center; background-color: rgb(48, 46, 46); height: 40px; color:#FFAF42 ">Global Drug Abuse Dashboard</h4>
+              
+            </div>
+        </div>    
+
+      <div class="row">
+        
+        <div class="col l6 s6">
+          <div class="card-panel" style="background-color: whitesmoke; height: 360px;">
+            <div id="mapdiv" style="margin-left: -13px;"></div>
+            </div>
+          </div>
+
+          
+          <div class="col l2 s2">
+            <div class="card-panel" style="background-color: whitesmoke; height: 360px;">
+              <div id="text1"></div>
+            <div id=""></div>
+          </div>
+            </div>
+
+            <div class="col l4 s4">
+              <div class="card-panel" style="background-color: whitesmoke; height: 360px;">
+              <div id="barchart"></div>
+            </div>
+              </div>
+          
+            
+          </div>
+
+          <div class="row">
+
+          <div class="col l3 s3">
+            <div class="card-panel" style="background-color: whitesmoke;height: 360px;">
+              
+              <div id="piechart"></div>
+              <div id="piechartlegend"></div>
+            </div>  
+          </div>
+
+          
+          <div class="col l6 s6">
+            <div class="card-panel" style="background-color: whitesmoke;height: 360px;">
+              <div id="para" style="width:960px;height:300px;"></div>
+          </div>
+            </div>
+       
+           
+
+              <div class="col l3 s3">
+                <div class="card-panel" style="background-color: whitesmoke; height: 360px;">
+                <div id="sunburst"></div>
+              </div>
+                
+              </div>
+
+              
+
+          </div>
+      </div>
+      
+
+
+  </main>
+
+  <script src = "{{ url_for('static', filename='map.js')}}"></script>
+  <script src = "{{ url_for('static', filename='barchart.js')}}"></script>
+  <script src = "{{ url_for('static', filename='updatebarchart.js')}}"></script>
+  <script src = "{{ url_for('static', filename='textdata.js')}}"></script>
+  <script src = "{{ url_for('static', filename='pie.js')}}"></script> 
+  <script src = "{{ url_for('static', filename='sunburst.js')}}"></script> 
+  <script src = "{{ url_for('static', filename='para.js')}}"></script>
+  
+  <style src = "{{ url_for('static', filename='style.css')}}"></style>
+
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+  <script src = "{{ url_for('static', filename='materialize.min.js')}}"></script>
+
+  <script src = "{{ url_for('static', filename='imagesloaded.pkgd.min.js')}}"></script>
+  <script src="https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"></script>
+  <script src="https://unpkg.com/d3-svg-legend@1.13.0/d3-legend.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+
+
+</body>
+</html>

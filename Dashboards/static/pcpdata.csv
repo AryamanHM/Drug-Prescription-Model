@@ -1,0 +1,289 @@
+subregion,ndeaths,nsufferings,drug_type,drug_death,Year
+Australia,1030,134815,Amphetamine ,35,2000
+Australia,1030,134815,Cocaine,6,2000
+Australia,1030,134815,Heroin,592,2000
+Australia,1030,134815,Opioid,398,2000
+Central Asia,786,101981,Amphetamine ,37,2000
+Central Asia,786,101981,Cocaine,42,2000
+Central Asia,786,101981,Heroin,534,2000
+Central Asia,786,101981,Opioid,174,2000
+Eastern Asia,33129,5699754,Amphetamine ,1575,2000
+Eastern Asia,33129,5699754,Cocaine,635,2000
+Eastern Asia,33129,5699754,Heroin,17448,2000
+Eastern Asia,33129,5699754,Opioid,13473,2000
+Eastern Europe,14722,1171050,Amphetamine ,490,2000
+Eastern Europe,14722,1171050,Cocaine,818,2000
+Eastern Europe,14722,1171050,Heroin,9946,2000
+Eastern Europe,14722,1171050,Opioid,3467,2000
+Latin America,4616,1219746,Amphetamine ,98,2000
+Latin America,4616,1219746,Cocaine,248,2000
+Latin America,4616,1219746,Heroin,2547,2000
+Latin America,4616,1219746,Opioid,1718,2000
+Oceania,25,10532,Amphetamine ,1,2000
+Oceania,25,10532,Cocaine,0,2000
+Oceania,25,10532,Heroin,8,2000
+Oceania,25,10532,Opioid,15,2000
+Oceania,1,637,Amphetamine ,0,2000
+Oceania,1,637,Cocaine,0,2000
+Oceania,1,637,Heroin,1,2000
+Oceania,1,637,Opioid,1,2000
+Northern Africa,1781,1013521,Amphetamine ,30,2000
+Northern Africa,1781,1013521,Cocaine,44,2000
+Northern Africa,1781,1013521,Heroin,1331,2000
+Northern Africa,1781,1013521,Opioid,377,2000
+Northern America,15049,2458008,Amphetamine ,520,2000
+Northern America,15049,2458008,Cocaine,1465,2000
+Northern America,15049,2458008,Heroin,8263,2000
+Northern America,15049,2458008,Opioid,4799,2000
+Northern Europe,3215,375671,Amphetamine ,91,2000
+Northern Europe,3215,375671,Cocaine,47,2000
+Northern Europe,3215,375671,Heroin,2002,2000
+Northern Europe,3215,375671,Opioid,1073,2000
+Other,277,60398,Amphetamine ,6,2000
+Other,277,60398,Cocaine,5,2000
+Other,277,60398,Heroin,191,2000
+Other,277,60398,Opioid,74,2000
+Oceania,1,558,Amphetamine ,0,2000
+Oceania,1,558,Cocaine,0,2000
+Oceania,1,558,Heroin,0,2000
+Oceania,1,558,Opioid,0,2000
+South-eastern Asia,2870,836091,Amphetamine ,77,2000
+South-eastern Asia,2870,836091,Cocaine,14,2000
+South-eastern Asia,2870,836091,Heroin,1874,2000
+South-eastern Asia,2870,836091,Opioid,904,2000
+Southern Asia,10722,3075175,Amphetamine ,428,2000
+Southern Asia,10722,3075175,Cocaine,279,2000
+Southern Asia,10722,3075175,Heroin,5353,2000
+Southern Asia,10722,3075175,Opioid,4662,2000
+Southern Europe,2482,390853,Amphetamine ,55,2000
+Southern Europe,2482,390853,Cocaine,23,2000
+Southern Europe,2482,390853,Heroin,1700,2000
+Southern Europe,2482,390853,Opioid,703,2000
+Africa,6172,1275508,Amphetamine ,73,2000
+Africa,6172,1275508,Cocaine,125,2000
+Africa,6172,1275508,Heroin,5018,2000
+Africa,6172,1275508,Opioid,948,2000
+Western Asia,1488,846100,Amphetamine ,20,2000
+Western Asia,1488,846100,Cocaine,36,2000
+Western Asia,1488,846100,Heroin,1171,2000
+Western Asia,1488,846100,Opioid,254,2000
+Western Europe,3486,411809,Amphetamine ,54,2000
+Western Europe,3486,411809,Cocaine,45,2000
+Western Europe,3486,411809,Heroin,1724,2000
+Western Europe,3486,411809,Opioid,1663,2000
+Australia,810,117028,Amphetamine ,38,2005
+Australia,810,117028,Heroin,6,2005
+Australia,810,117028,Opioid,413,2005
+Australia,810,117028,Cocaine,353,2005
+Central Asia,1341,132199,Amphetamine ,51,2005
+Central Asia,1341,132199,Heroin,73,2005
+Central Asia,1341,132199,Opioid,951,2005
+Central Asia,1341,132199,Cocaine,265,2005
+Eastern Asia,16584,4757312,Amphetamine ,611,2005
+Eastern Asia,16584,4757312,Heroin,291,2005
+Eastern Asia,16584,4757312,Opioid,9190,2005
+Eastern Asia,16584,4757312,Cocaine,6494,2005
+Eastern Europe,18090,1302370,Amphetamine ,644,2005
+Eastern Europe,18090,1302370,Heroin,1104,2005
+Eastern Europe,18090,1302370,Opioid,12332,2005
+Eastern Europe,18090,1302370,Cocaine,4010,2005
+Latin America,4568,1290352,Amphetamine ,108,2005
+Latin America,4568,1290352,Heroin,270,2005
+Latin America,4568,1290352,Opioid,2684,2005
+Latin America,4568,1290352,Cocaine,1505,2005
+Oceania,29,11748,Amphetamine ,1,2005
+Oceania,29,11748,Heroin,0,2005
+Oceania,29,11748,Opioid,8,2005
+Oceania,29,11748,Cocaine,18,2005
+Oceania,1,683,Amphetamine ,0,2005
+Oceania,1,683,Heroin,0,2005
+Oceania,1,683,Opioid,1,2005
+Oceania,1,683,Cocaine,1,2005
+Northern Africa,2119,1102952,Amphetamine ,39,2005
+Northern Africa,2119,1102952,Heroin,59,2005
+Northern Africa,2119,1102952,Opioid,1583,2005
+Northern Africa,2119,1102952,Cocaine,438,2005
+Northern America,23754,3113172,Amphetamine ,1015,2005
+Northern America,23754,3113172,Heroin,2372,2005
+Northern America,23754,3113172,Opioid,13121,2005
+Northern America,23754,3113172,Cocaine,7245,2005
+Northern Europe,3441,406816,Amphetamine ,136,2005
+Northern Europe,3441,406816,Heroin,69,2005
+Northern Europe,3441,406816,Opioid,1917,2005
+Northern Europe,3441,406816,Cocaine,1316,2005
+Other,352,67808,Amphetamine ,7,2005
+Other,352,67808,Heroin,8,2005
+Other,352,67808,Opioid,236,2005
+Other,352,67808,Cocaine,98,2005
+Oceania,1,576,Amphetamine ,0,2005
+Oceania,1,576,Heroin,0,2005
+Oceania,1,576,Opioid,0,2005
+Oceania,1,576,Cocaine,0,2005
+South-eastern Asia,2788,869591,Amphetamine ,81,2005
+South-eastern Asia,2788,869591,Heroin,15,2005
+South-eastern Asia,2788,869591,Opioid,1794,2005
+South-eastern Asia,2788,869591,Cocaine,895,2005
+Southern Asia,13640,3560220,Amphetamine ,461,2005
+Southern Asia,13640,3560220,Heroin,339,2005
+Southern Asia,13640,3560220,Opioid,7422,2005
+Southern Asia,13640,3560220,Cocaine,5420,2005
+Southern Europe,2473,405134,Amphetamine ,64,2005
+Southern Europe,2473,405134,Heroin,32,2005
+Southern Europe,2473,405134,Opioid,1314,2005
+Southern Europe,2473,405134,Cocaine,1059,2005
+Africa,5837,1337839,Amphetamine ,104,2005
+Africa,5837,1337839,Heroin,188,2005
+Africa,5837,1337839,Opioid,4202,2005
+Africa,5837,1337839,Cocaine,1332,2005
+Western Asia,1675,926349,Amphetamine ,22,2005
+Western Asia,1675,926349,Heroin,45,2005
+Western Asia,1675,926349,Opioid,1323,2005
+Western Asia,1675,926349,Cocaine,282,2005
+Western Europe,3626,429659,Amphetamine ,77,2005
+Western Europe,3626,429659,Heroin,42,2005
+Western Europe,3626,429659,Opioid,1469,2005
+Western Europe,3626,429659,Cocaine,2041,2005
+Australia,973,127895,Amphetamine ,47,2010
+Australia,973,127895,Cocaine,9,2010
+Australia,973,127895,Opioid,488,2010
+Australia,973,127895,Heroin,430,2010
+Central Asia,1174,128347,Amphetamine ,37,2010
+Central Asia,1174,128347,Cocaine,63,2010
+Central Asia,1174,128347,Opioid,846,2010
+Central Asia,1174,128347,Heroin,227,2010
+Eastern Asia,18170,4720511,Amphetamine ,555,2010
+Eastern Asia,18170,4720511,Cocaine,283,2010
+Eastern Asia,18170,4720511,Opioid,10983,2010
+Eastern Asia,18170,4720511,Heroin,6348,2010
+Eastern Europe,14048,1096887,Amphetamine ,484,2010
+Eastern Europe,14048,1096887,Cocaine,851,2010
+Eastern Europe,14048,1096887,Opioid,9517,2010
+Eastern Europe,14048,1096887,Heroin,3197,2010
+Latin America,5150,1387891,Amphetamine ,118,2010
+Latin America,5150,1387891,Cocaine,344,2010
+Latin America,5150,1387891,Opioid,3062,2010
+Latin America,5150,1387891,Heroin,1619,2010
+Oceania,34,13372,Amphetamine ,1,2010
+Oceania,34,13372,Cocaine,0,2010
+Oceania,34,13372,Opioid,11,2010
+Oceania,34,13372,Heroin,21,2010
+Oceania,3,725,Amphetamine ,0,2010
+Oceania,3,725,Cocaine,0,2010
+Oceania,3,725,Opioid,1,2010
+Oceania,3,725,Heroin,1,2010
+Northern Africa,2666,1314090,Amphetamine ,47,2010
+Northern Africa,2666,1314090,Cocaine,75,2010
+Northern Africa,2666,1314090,Opioid,2034,2010
+Northern Africa,2666,1314090,Heroin,509,2010
+Northern America,33965,3617489,Amphetamine ,1411,2010
+Northern America,33965,3617489,Cocaine,2921,2010
+Northern America,33965,3617489,Opioid,20240,2010
+Northern America,33965,3617489,Heroin,9392,2010
+Northern Europe,3999,446551,Amphetamine ,177,2010
+Northern Europe,3999,446551,Cocaine,77,2010
+Northern Europe,3999,446551,Opioid,2097,2010
+Northern Europe,3999,446551,Heroin,1648,2010
+Other,420,74944,Amphetamine ,9,2010
+Other,420,74944,Cocaine,11,2010
+Other,420,74944,Opioid,274,2010
+Other,420,74944,Heroin,124,2010
+Oceania,2,603,Amphetamine ,0,2010
+Oceania,2,603,Cocaine,0,2010
+Oceania,2,603,Opioid,0,2010
+Oceania,2,603,Heroin,0,2010
+South-eastern Asia,3243,924736,Amphetamine ,73,2010
+South-eastern Asia,3243,924736,Cocaine,19,2010
+South-eastern Asia,3243,924736,Opioid,2168,2010
+South-eastern Asia,3243,924736,Heroin,981,2010
+Southern Asia,15851,3920450,Amphetamine ,455,2010
+Southern Asia,15851,3920450,Cocaine,383,2010
+Southern Asia,15851,3920450,Opioid,9207,2010
+Southern Asia,15851,3920450,Heroin,5808,2010
+Southern Europe,2234,380369,Amphetamine ,65,2010
+Southern Europe,2234,380369,Cocaine,29,2010
+Southern Europe,2234,380369,Opioid,1117,2010
+Southern Europe,2234,380369,Heroin,1019,2010
+Africa,5361,1435218,Amphetamine ,142,2010
+Africa,5361,1435218,Cocaine,265,2010
+Africa,5361,1435218,Opioid,3280,2010
+Africa,5361,1435218,Heroin,1672,2010
+Western Asia,2246,1178615,Amphetamine ,32,2010
+Western Asia,2246,1178615,Cocaine,62,2010
+Western Asia,2246,1178615,Opioid,1810,2010
+Western Asia,2246,1178615,Heroin,341,2010
+Western Europe,4153,461108,Amphetamine ,87,2010
+Western Europe,4153,461108,Cocaine,43,2010
+Western Europe,4153,461108,Opioid,1527,2010
+Western Europe,4153,461108,Heroin,2499,2010
+Australia,1047,136976,Amphetamine ,48,2015
+Australia,1047,136976,Cocaine,9,2015
+Australia,1047,136976,Opioid,528,2015
+Australia,1047,136976,Heroin,462,2015
+Central Asia,1180,128699,Amphetamine ,35,2015
+Central Asia,1180,128699,Cocaine,64,2015
+Central Asia,1180,128699,Opioid,855,2015
+Central Asia,1180,128699,Heroin,227,2015
+Eastern Asia,20085,4890615,Amphetamine ,567,2015
+Eastern Asia,20085,4890615,Cocaine,294,2015
+Eastern Asia,20085,4890615,Opioid,12747,2015
+Eastern Asia,20085,4890615,Heroin,6478,2015
+Eastern Europe,12493,1008293,Amphetamine ,419,2015
+Eastern Europe,12493,1008293,Cocaine,750,2015
+Eastern Europe,12493,1008293,Opioid,8443,2015
+Eastern Europe,12493,1008293,Heroin,2880,2015
+Latin America,5683,1456035,Amphetamine ,121,2015
+Latin America,5683,1456035,Cocaine,393,2015
+Latin America,5683,1456035,Opioid,3429,2015
+Latin America,5683,1456035,Heroin,1737,2015
+Oceania,38,14444,Amphetamine ,1,2015
+Oceania,38,14444,Cocaine,0,2015
+Oceania,38,14444,Opioid,13,2015
+Oceania,38,14444,Heroin,24,2015
+Oceania,4,768,Amphetamine ,0,2015
+Oceania,4,768,Cocaine,0,2015
+Oceania,4,768,Opioid,1,2015
+Oceania,4,768,Heroin,1,2015
+Northern Africa,3027,1415703,Amphetamine ,51,2015
+Northern Africa,3027,1415703,Cocaine,85,2015
+Northern Africa,3027,1415703,Opioid,2338,2015
+Northern Africa,3027,1415703,Heroin,554,2015
+Northern America,45552,4304099,Amphetamine ,1734,2015
+Northern America,45552,4304099,Cocaine,3496,2015
+Northern America,45552,4304099,Opioid,28758,2015
+Northern America,45552,4304099,Heroin,11564,2015
+Northern Europe,4126,451474,Amphetamine ,186,2015
+Northern Europe,4126,451474,Cocaine,76,2015
+Northern Europe,4126,451474,Opioid,2123,2015
+Northern Europe,4126,451474,Heroin,1741,2015
+Other,470,80250,Amphetamine ,10,2015
+Other,470,80250,Cocaine,13,2015
+Other,470,80250,Opioid,299,2015
+Other,470,80250,Heroin,147,2015
+Oceania,2,622,Amphetamine ,0,2015
+Oceania,2,622,Cocaine,0,2015
+Oceania,2,622,Opioid,0,2015
+Oceania,2,622,Heroin,1,2015
+South-eastern Asia,3502,973559,Amphetamine ,75,2015
+South-eastern Asia,3502,973559,Cocaine,20,2015
+South-eastern Asia,3502,973559,Opioid,2360,2015
+South-eastern Asia,3502,973559,Heroin,1045,2015
+Southern Asia,16596,4096107,Amphetamine ,450,2015
+Southern Asia,16596,4096107,Cocaine,407,2015
+Southern Asia,16596,4096107,Opioid,9789,2015
+Southern Asia,16596,4096107,Heroin,5950,2015
+Southern Europe,2111,367291,Amphetamine ,60,2015
+Southern Europe,2111,367291,Cocaine,29,2015
+Southern Europe,2111,367291,Opioid,983,2015
+Southern Europe,2111,367291,Heroin,1036,2015
+Africa,5790,1538526,Amphetamine ,166,2015
+Africa,5790,1538526,Cocaine,313,2015
+Africa,5790,1538526,Opioid,3454,2015
+Africa,5790,1538526,Heroin,1858,2015
+Western Asia,2654,1277576,Amphetamine ,36,2015
+Western Asia,2654,1277576,Cocaine,80,2015
+Western Asia,2654,1277576,Opioid,2142,2015
+Western Asia,2654,1277576,Heroin,390,2015
+Western Europe,4342,457401,Amphetamine ,81,2015
+Western Europe,4342,457401,Cocaine,41,2015
+Western Europe,4342,457401,Opioid,1507,2015
+Western Europe,4342,457401,Heroin,2710,2015

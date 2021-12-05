@@ -1,0 +1,300 @@
+body {
+    background-color:#5c6e91;
+    color: white;
+}
+.parcoords {
+    display: block;
+  }
+  
+  .parcoords svg,
+  .parcoords canvas {
+    font: 10px sans-serif;
+    position: absolute;
+  }
+  
+  .parcoords canvas {
+    opacity: 0.9;
+    pointer-events: none;
+  }
+  
+  .axis .title {
+    font-size: 10px;
+    transform: rotate(-21deg) translate(-5px,-6px);
+    fill: black;
+  }
+  
+  .axis line,
+  .axis path {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 1px;
+  }
+  
+  .axis .tick text {
+    fill: black;
+    pointer-events: none;
+  }
+  
+  .axis.pl_facility .tick text,
+  .axis.pl_instrument .tick text,
+  .axis.st_spstr .tick text {
+    font-size: 6px; 
+  }
+  
+  .axis.pl_telescope .tick text {
+    font-size: 5px; 
+  }
+  
+  .axis:hover line,
+  .axis:hover path,
+  .axis.active line,
+  .axis.active path {
+    fill: none;
+    stroke: #222;
+    stroke-width: 1px;
+  }
+  
+  .axis:hover .title {
+    font-weight: bold;
+  }
+  
+  .axis:hover .tick text {
+    opacity: 1;
+  }
+  
+  .axis.active .title {
+    font-weight: bold;
+  }
+  
+  .axis.active .tick text {
+    opacity: 1;
+    font-weight: bold;
+  }
+  
+  .brush .extent {
+    fill-opacity: .3;
+    stroke:#000;
+    stroke-width: 1px;
+  }
+  
+  pre {
+    width: 100%;
+    height: 300px;
+    margin: 6px 12px;
+    tab-size: 40;
+    font-size: 10px;
+    overflow: auto;
+  }
+
+  .d3-tip {
+    line-height: 1.5;
+    font-weight: 400;
+    font-family:"avenir next", Arial, sans-serif;
+    padding: 6px;
+    background: rgba(0, 0, 0, 0.6);
+    color: yellow;
+    border-radius: 1px;
+    pointer-events: none;
+    }
+
+    /* Creates a small triangle extender for the tooltip */
+    .d3-tip:after {      
+      box-sizing: border-box;
+      display: inline;
+      font-size: 8px;
+      width: 100%;
+      line-height: 1.5;
+      color: rgba(0, 0, 0, 0.6);
+      position: absolute;
+      pointer-events: none;
+      
+    }
+
+    .legendThreshold{
+
+      font-size: 12px;
+      font-family: Verdana;
+    }
+
+    /* Northward tooltips */
+    .d3-tip.n:after {
+      content: "\25BC";
+      margin: -1px 0 0 0;
+      top: 100%;
+      left: 0;
+      text-align: center;
+    }
+
+    /* Eastward tooltips */
+    .d3-tip.e:after {
+      content: "\25C0";
+      margin: -4px 0 0 0;
+      top: 50%;
+      left: -8px;
+    }
+
+    /* Southward tooltips */
+    .d3-tip.s:after {
+      content: "\25B2";
+      margin: 0 0 1px 0;
+      top: -8px;
+      left: 0;
+      text-align: center;
+    }
+
+    /* Westward tooltips */
+    .d3-tip.w:after {
+      content: "\25B6";
+      margin: -4px 0 0 -1px;
+      top: 50%;
+      left: 100%;
+    }
+
+   text{
+      fill:black;
+    }
+
+    .details{
+      color:yellow;
+    }
+
+    .background {
+        fill: none;
+        pointer-events: all; 
+      }
+      
+      .feature {
+        fill: black;
+        cursor: pointer;
+      }
+      
+      .feature.active {
+        fill: orange;
+      }
+      
+      .mesh {
+        fill: none;
+        stroke:black;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+
+      .pie {
+        margin: 0px;
+      }
+      
+      svg {
+          float: left;
+      }
+      
+      .legend {
+        float: left;
+        font-family: "Verdana";
+        font-size: .7em;
+        fill:black;
+      }
+      
+      .pie text {
+        font-family: "Verdana";
+        color:black;
+      }
+      
+      .pie .name-text{
+        font-size: .8em;
+        fill: black;
+      }
+      
+      .pie .value-text{
+        font-size: 3em;
+        fill:black;
+      }
+      
+      #piechartlegend{
+          width: 400px;
+          height: 300px;
+          color:black;
+      }
+
+      .maplegend {
+        display: table;
+        margin: 0 auto;
+        font-family: "Helvetica Neue", sans-serif;
+        font-size: 12px;
+        height: 35px;
+        width: 250px;
+      }
+      
+      html, body {
+        height: 100%;
+      }
+      
+      path {
+        stroke:#fff;
+      }
+      
+      .total {
+        pointer-events: none;
+      }
+      
+      /* legend */
+      
+      #legend {
+        line-height: 1.4em;
+      }
+      .legend {
+        font-size: 14px;
+        float: left;
+        margin-right:1em;
+        
+      }
+      div#legend .rect {
+        width: 10px;
+        height: 10px;
+        margin-right: 4px;
+        display: inline-block;
+      }
+      .clearfix::after { 
+         content: " ";
+         display: block; 
+         height: 0; 
+         clear: both;
+      }
+      rect {
+        stroke-width: 2;
+      }
+      
+      div.tooltip {
+          position: absolute;
+          width: 100px;
+          height: auto;
+          padding: 10px;
+        display: none;
+          background-color: rgba(0, 0, 0, 0.6);
+          color: yellow;
+          -webkit-border-radius: 10px;
+          -moz-border-radius: 10px;
+          border-radius: 1px;
+          -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+          -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+          box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+          pointer-events: none;
+      }
+                  
+      div.tooltip p {
+          margin: 0;
+          font-family:"avenir next", Arial, sans-serif;
+          font-size: 16px;
+          
+          line-height: 1.5;
+        font-weight: 400;
+      } 
+      
+      .legend {
+        width: 50%;
+        margin: 0 auto;
+      }
+      
+      .chart-1 {
+        width: 33%;
+      }     

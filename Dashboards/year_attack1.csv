@@ -1,0 +1,17 @@
+,Year,drug_type,kill total
+0,2000,Amphetamine ,16
+1,2000,Cocaine,39
+2,2000,Heroin,664
+3,2000,Opioid,183
+4,2005,Amphetamine ,23
+5,2005,Cocaine,283
+6,2005,Heroin,58
+7,2005,Opioid,793
+8,2010,Amphetamine ,31
+9,2010,Cocaine,78
+10,2010,Heroin,376
+11,2010,Opioid,955
+12,2015,Amphetamine ,36
+13,2015,Cocaine,92
+14,2015,Heroin,441
+15,2015,Opioid,1084
