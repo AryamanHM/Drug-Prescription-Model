@@ -1,0 +1,13 @@
+Django==4.0.2
+Flask==2.0.2
+gender_guesser==0.4.0
+matplotlib==3.5.1
+numpy==1.22.1
+pandas==1.4.0
+Pillow==9.0.1
+requests==2.27.1
+seaborn==0.11.2
+streamlit==1.5.0
+streamlit_lottie==0.0.3
+xhtml2pdf==0.2.5
+xmltodict==0.12.0
